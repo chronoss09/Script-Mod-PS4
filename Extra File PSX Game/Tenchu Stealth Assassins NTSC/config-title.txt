@@ -1,0 +1,9 @@
+# Tenchu Stealth Assassins
+
+--sim-analog-pad=0x2020
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0

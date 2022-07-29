@@ -1,0 +1,14 @@
+#Game Settings (Per game)
+
+--image0="data/Saiyuki - Journey West (USA).bin"
+
+--ps1-title-id=SLUS01381
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--pace-gpu-dma=true
+--scale=6
+--gamma=5
+--brightness=10
+--contrast=10
+#--gpu-scanout-fps-override=60
+--dev_menu=1

@@ -1,0 +1,5 @@
+# General Settings (ALL GAMES)
+
+--region-dir=SIEA
+#--sim-analog-pad=1
+--ctlanalog=on

@@ -1,0 +1,16 @@
+# Ehrgeiz
+
+--sim-analog-pad=0x2020
+--ps1-title-id=SCUS00809
+--region-dir=SIEA
+#--cdrom-max-seek=true
+--bios-hide-sce-osd=0
+#--gpu-scanout-fps-override=FXAA
+#--defer-linked-dma-irq=true
+#--opt-cache-isolation=true
+#--pace-gpu-dma=true
+#--libcrypt=true
+#--deterministic=true
+--scale=6
+#--gamma=5
+#--brightness=5

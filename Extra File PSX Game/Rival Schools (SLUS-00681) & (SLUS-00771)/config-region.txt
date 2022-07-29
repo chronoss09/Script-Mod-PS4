@@ -1,0 +1,28 @@
+#Game Settings (Per game)
+
+--image0="data/disc01.bin"
+--image1="data/disc02.bin"
+
+--ps1-title-id=SLUS00681
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+#--pace-gpu-dma=true <--MUST disable for select screen to display
+--scale=6
+--gamma=5
+--brightness=10
+--contrast=10
+--antialias=off
+--gpu-scanout-fps-override=60
+#--dev_menu=1
+#--cdrom-max-seek=true
+
+#--hue=0
+#--saturation=0
+#--cdrom-cmd-time=100
+#--cdrom-max-seek=true
+#--metal-gear-solid=true
+#--defer-linked-dma-irq=false
+#--opt-cache-isolation=true
+#--libcrypt=true
+#--deterministic=true
+#--texreplace=1

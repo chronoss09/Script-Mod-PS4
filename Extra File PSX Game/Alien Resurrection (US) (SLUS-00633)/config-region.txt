@@ -1,0 +1,18 @@
+#Game Settings (Per game)
+
+--image0="data/Alien Resurrection.bin"
+
+
+
+--ps1-title-id=SLUS00633
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--pace-gpu-dma=true 
+--scale=6
+#--gamma=5
+--brightness=10
+--contrast=10
+#--antialias=off
+#--gpu-scanout-fps-override=60
+#--dev_menu=1
+#--cdrom-max-seek=true
