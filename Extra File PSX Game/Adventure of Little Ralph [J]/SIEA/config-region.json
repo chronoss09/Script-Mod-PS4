@@ -1,0 +1,110 @@
+{
+  "applicationCategoryType": 0,
+  "applicationDrmType": "standard",
+  "contentId": "UP9000-PPSA06322_00-SCUS942400000000",
+  "titleId": "PPSA06322",
+  "masterVersion": "01.00",
+  "contentVersion": "01.000.000",
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "Syphon Filter"
+    }
+  },
+  "attribute": 0,
+  "attribute2": 0,
+  "attribute3": 1835012,
+  "downloadDataSize": 0,
+  "ageLevel": {
+    "DE": 16,
+    "HK": 18,
+    "TW": 18,
+    "PT": 18,
+    "HN": 13,
+    "DK": 18,
+    "LU": 18,
+    "PY": 13,
+    "HR": 18,
+    "UA": 18,
+    "HU": 18,
+    "QA": 18,
+    "ID": 18,
+    "IE": 18,
+    "EC": 13,
+    "US": 13,
+    "IL": 18,
+    "AE": 18,
+    "UY": 13,
+    "IN": 18,
+    "MT": 18,
+    "ZA": 18,
+    "IS": 18,
+    "IT": 18,
+    "MX": 13,
+    "MY": 18,
+    "ES": 18,
+    "AR": 13,
+    "AT": 18,
+    "AU": 15,
+    "NI": 13,
+    "RO": 18,
+    "NL": 18,
+    "NO": 18,
+    "BE": 18,
+    "FI": 18,
+    "RU": 18,
+    "BG": 18,
+    "BH": 18,
+    "JP": 15,
+    "FR": 18,
+    "NZ": 16,
+    "BO": 13,
+    "SA": 18,
+    "BR": 14,
+    "SE": 18,
+    "default": 19,
+    "SG": 18,
+    "SI": 18,
+    "SK": 18,
+    "GB": 18,
+    "CA": 13,
+    "OM": 18,
+    "SV": 13,
+    "CH": 18,
+    "KR": 19,
+    "CL": 13,
+    "GR": 18,
+    "CO": 13,
+    "KW": 18,
+    "GT": 13,
+    "CR": 13,
+    "PA": 13,
+    "TH": 18,
+    "PE": 13,
+    "CY": 18,
+    "LB": 18,
+    "CZ": 18,
+    "PL": 18,
+    "TR": 18
+  },
+  "kernel": {
+    "flexibleMemorySize": 402653184
+  },
+  "share": {
+    "overlay_position": "upper_left"
+  },
+  "gameIntent": {
+    "permittedIntents": [
+      {
+        "intentType": "launchActivity"
+      },
+      {
+        "intentType": "joinSession"
+      }
+    ]
+  },
+  "conceptId": "10004395",
+  "contentBadgeType": 1,
+  "versionFileUri": "https://agst.prod.dl.playstation.net/agst/prod/00/sp-int/PPSA06322_00/2e8536e8-9e2f-45b8-8335-84e02f2c750c-version.xml"
+  , "userDefinedParam1": 65
+}

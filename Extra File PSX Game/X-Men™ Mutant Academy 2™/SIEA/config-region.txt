@@ -1,0 +1,33 @@
+#Game Settings (Per game)
+
+--image0="data/X-Men - Mutant Academy 2.bin"
+
+
+--ps1-title-id=SLUS01382
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--scale=6
+--gamma=5
+--brightness=10
+--contrast=8
+#--hue=0
+#--saturation=0
+#--antialias=SSAA4x
+
+--pace-gpu-dma=true 
+#--gpu-scanout-fps-override=60
+#--cdrom-cmd-time=100
+#--cdrom-max-seek=true
+#--metal-gear-solid=true
+#--defer-linked-dma-irq=true
+#--opt-cache-isolation=true
+#--libcrypt=true
+#--deterministic=true
+#--texreplace=1
+#--texrecent=true
+--menu_dev=enable
+#--vram-read-frame-delay=10
+#--present-delay-scanlines=auto
+#--clamp-line-thickness-min=1
+#--clamp-line-thickness-max=2
+
