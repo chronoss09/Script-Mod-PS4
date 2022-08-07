@@ -1,4 +1,4 @@
-# Scrip Mod PS4
+# Script Mod PS4
 Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces script !!!
 
 ## PSX 2 PS4
