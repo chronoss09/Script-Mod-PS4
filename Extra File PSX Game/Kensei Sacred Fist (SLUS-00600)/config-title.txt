@@ -1,0 +1,22 @@
+# General Settings (ALL GAMES)
+
+ 
+--sim-analog-pad=0x2020
+--ctlanalog=on
+
+
+#Game Settings (Per game)
+
+--image0="data/Kensei - Sacred Fist.bin"
+
+
+--ps1-title-id=SLUS00600
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--pace-gpu-dma=false
+--scale=2
+--brightness=10
+--contrast=10
+#--gpu-scanout-fps-override=60
+--cdrom-max-seek=true
+--cdrom-cmd-time=100
