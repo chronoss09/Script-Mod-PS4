@@ -1,0 +1,102 @@
+# General Settings (ALL GAMES)
+
+  
+--sim-analog-pad=0x2020
+#--multitap=1
+--bios=SCPH1001.bin
+--ctlanalog=on
+--xobuttonmode=xenter,ocancel
+
+#Game Settings (Per game)
+
+--image0="data/War Gods.bin"
+
+
+--ps1-title-id=SLUS00328
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--pace-gpu-dma=true 
+--scale=6
+#--gamma=5
+--brightness=10
+--contrast=10
+#--antialias=off
+#--gpu-scanout-fps-override=60
+#--dev_menu=1
+#--cdrom-max-seek=true
+
+#--hue=0
+#--saturation=0
+#--cdrom-cmd-time=100
+#--cdrom-max-seek=true
+#--metal-gear-solid=true
+#--defer-linked-dma-irq=false
+#--opt-cache-isolation=true
+#--libcrypt=true
+#--deterministic=true
+#--texreplace=1
+
+
+# CONFIG FOR PS4 PACKAGE ENVIRONMENT
+
+#--gpu-scanout-fps-override=FXAA  #[AAMode::NoAA.AAMode::FXAA.AAMode::CMAA.AAMode::SSAA_4x]
+#--title-id
+#--opt-cache-isolation=false
+#--ps1-title-id=SLUS01381
+#--pace-gpu-dma=false
+#--defer-linked-dma-irq=true
+#--libcrypt
+#--deterministic=true
+#--guncon
+#--multitap
+#--vram-read-frame-delay=false
+#--present-delay-scanlines= auto
+#--id-engine
+#--metal-gear-solid
+#--snapshot-vram
+#--snapshot-entrypoint
+#--snap-entrypoint-filename= %TITLE_ID%_entrypoint.bin
+#--snapshot-autokill
+#--ps1-title-id
+#--bios=SCPH5500.bin,SCPH5501.bin,SCPH5502.bin
+#--bios-dir== Usage Notes:  Specify custom path to ALL assets with 
+#--assets-dir=/path/to/assets, Specify custom path to BIOS assets with 
+#--bios-dir=/path/to/bios_dir ,Explicitly specify BIOS file with 
+#--bios-dir=/path/to/bios.bin
+#--state-restore
+#--snapshot-restore
+#--trace-snap-compare= defer
+#--wait
+#--autokill
+#--mcd0
+#--mcd1
+#--agerestrict
+#--remap
+#--load-scripts
+#--boot-script= app_boot.lua
+#--snapshot-dir
+#--savestate-dir
+#--xobuttonmode=oenter,ocancel
+#--host-audio
+#--texreplace
+#--git-rev-gamedata
+#--region-dir
+#--app-dir
+#--app-artifacts-dir
+#--title-artifacts-dir
+#--run-hook-msg
+#--cwd-dir
+#--vault-dir
+#--gamedata-dir
+#--title-dir
+#--config-local-dir
+#--clamp-line-thickness-max
+#--clamp-line-thickness-min
+#--ctlanalog
+#--screenshot-dir
+#--assets-dir
+#--savedata-mode
+#--ps4-trophies=1
+#--trophies=1
+#--ps5-uds=1
+
