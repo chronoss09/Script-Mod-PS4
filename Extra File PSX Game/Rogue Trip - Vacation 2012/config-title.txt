@@ -1,0 +1,14 @@
+# Rogue Trip - Vacation 2012
+
+--image="data/Rogue Trip - Vacation 2012 [U] [SLUS-00643].bin"
+--ps1-title-id=SLUS00643
+
+
+
+--bios-hide-sce-osd=1
+--multitap=on
+--has-shown-start-select-help=1
+--scale=6
+--pace-gpu-dma=false 
+--defer-linked-dma-irq=false
+--opt-cache-isolation=false
