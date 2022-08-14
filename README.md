@@ -1,5 +1,11 @@
 # Script Mod PS4
-Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces script !!!
+Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!
+
+## SMS 2 PS4
+Jouer à la Master System sur PS4 (emu PSP) --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/sms_ps4)
+
+![PHOTO](https://github.com/chronoss09/Script-Mod-PS4/blob/main/SMS%202%20PS4.PNG)
+
 
 ## PS2 2 PS4
 Créer des PKG des jeux de la PS2 pour PS4 --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/ps2_ps4)
