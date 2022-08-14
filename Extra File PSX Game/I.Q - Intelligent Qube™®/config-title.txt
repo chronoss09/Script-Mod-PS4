@@ -1,0 +1,78 @@
+# General Settings (ALL GAMES)
+
+
+--bios-hide-sce-osd=1
+--has-shown-start-select-help=1
+--ctlanalog=on
+--sim-analog-pad=0x2020
+
+--image0="data/I.Q - Intelligent Qube (USA).bin"
+--ps1-title-id=SCUS94181
+
+
+--scale=1
+--texrecent=true
+--gpu-scanout-fps-override=60 #ntsc, pal, 1->120(fps)
+--cdrom-cmd-time=100
+--cdrom-max-seek=true
+--pace-gpu-dma=true
+--host-audio=noisedivider
+
+#--antialias=off
+#--softgpu=true
+#--texreplace="/assets/texreplace"
+#--title-id
+#--opt-cache-isolation=false
+#--defer-linked-dma-irq=true
+#--libcrypt=0xe788
+#--deterministic=true
+#--guncon
+#--multitap
+#--vram-read-frame-delay=false
+#--present-delay-scanlines= auto
+#--id-engine
+#--metal-gear-solid
+#--snapshot-vram
+#--snapshot-entrypoint
+#--snap-entrypoint-filename= %TITLE_ID%_entrypoint.bin
+#--snapshot-autokill
+#--ps1-title-id
+#--bios=SCPH5500.bin,SCPH5501.bin,SCPH5502.bin
+#--bios-dir= Specify custom path to BIOS assets
+#--state-restore
+#--snapshot-restore
+#--trace-snap-compare= defer
+#--wait
+#--autokill
+#--mcd0
+#--mcd1
+#--agerestrict
+#--remap
+#--load-scripts
+#--boot-script= app_boot.lua
+#--snapshot-dir
+#--savestate-dir
+#--xobuttonmode=oenter,ocancel
+#--host-audio
+#--texreplace
+#--git-rev-gamedata
+#--region-dir
+#--app-dir
+#--app-artifacts-dir
+#--title-artifacts-dir
+#--run-hook-msg
+#--cwd-dir
+#--vault-dir
+#--gamedata-dir
+#--title-dir
+#--config-local-dir
+#--clamp-line-thickness-max
+#--clamp-line-thickness-min
+#--ctlanalog
+#--screenshot-dir
+#--assets-dir # Specify custom path to ALL assets 
+#--savedata-mode
+#--ps4-trophies=1
+#--trophies=1
+#--ps5-uds=1
+
