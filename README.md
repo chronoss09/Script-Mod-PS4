@@ -1,6 +1,12 @@
 # Script Mod PS4
 Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!
 
+## PSP 2 PS4
+Jouer à la PlayStation Portable sur PS4 --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/psp_ps4)
+
+![PHOTO](https://github.com/chronoss09/Script-Mod-PS4/blob/main/PSP_2_PS4_v1.0%20fr.PNG)
+
+
 ## SMS 2 PS4
 Jouer à la Master System sur PS4 (emu PSP) --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/sms_ps4)
 
