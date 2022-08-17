@@ -1,6 +1,6 @@
 #Game Settings (Per game)
 
---image0="data/Alien Resurrection.bin"
+--image0="data/"
 
 
 
