@@ -1,6 +1,6 @@
 #Game Settings (Per game)
 
---image0="data/Black Dawn.bin"
+--image0="data/"
 
 #--ps1-title-id=SCPS10131
 --bios-hide-sce-osd=0
