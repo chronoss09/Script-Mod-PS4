@@ -10,16 +10,12 @@
 
 #Game Settings (Per game)
 
---image0="data/Arc the Lad Collection - Arc the Lad (USA).bin"
---image1="data/Arc the Lad Collection - Arc the Lad II (USA).bin"
---image2="data/Arc the Lad Collection - Arc the Lad III (USA)(Disc 1).bin"
---image3="data/Arc the Lad Collection - Arc the Lad III (USA)(Disc 2).bin"
---image4="data/Arc the Lad Collection - Arc Arena - Monster Tournament (USA).bin"
+--image0="data/"
+
 
 #--ps1-title-id=SLUS01224
 
  
-
 --scale=2
 --brightness=10
 --contrast=10
