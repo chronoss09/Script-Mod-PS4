@@ -1,6 +1,6 @@
 #Game Settings (Per game)
 
---image0="data/X-Men - Mutant Academy 2.bin"
+--image0="data/"
 
 
 --ps1-title-id=SLUS01382
