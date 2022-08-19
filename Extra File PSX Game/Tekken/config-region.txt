@@ -1,9 +1,9 @@
 #Game Settings (Per game)
 
---image0="data/Tekken.bin"
-
+--image0="data/"
 
 --ps1-title-id=SLUS00006
+
 --bios-hide-sce-osd=0
 --has-shown-start-select-help=0
 #--pace-gpu-dma=true
