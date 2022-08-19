@@ -1,6 +1,7 @@
 # Rogue Trip - Vacation 2012
 
---image="data/Rogue Trip - Vacation 2012 [U] [SLUS-00643].bin"
+--image="data/"
+
 --ps1-title-id=SLUS00643
 
 
