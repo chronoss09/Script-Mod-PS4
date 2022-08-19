@@ -1,6 +1,6 @@
 #Game Settings (Per game)
 
---image0="data/Wu-Tang - Shaolin Style.bin"
+--image0="data/"
 
 
 
