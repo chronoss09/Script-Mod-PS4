@@ -7,7 +7,7 @@
 
 #Game Settings (Per game)
 
---image0="data/Resident Evil 3 - Nemesis (USA).bin"
+--image0="data/"
 
 --scale=6
 --gamma=5
