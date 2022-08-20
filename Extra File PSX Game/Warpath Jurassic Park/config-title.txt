@@ -1,0 +1,4 @@
+--multitap=on
+
+--gpu-scanout-fps-override=ntsc
+--scale=6
