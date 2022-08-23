@@ -7,9 +7,7 @@
 
 --image0="data/"
 
-
---ps1-title-id=SLUS00562
-
+--ps1-title-id=SLUS00437
 
 --scale=1
 #--texrecent=true
