@@ -1,5 +1,6 @@
 # Script Mod PS4
-Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!
+Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!  
+Et super grand merci à [Stayhye](https://www.psx-place.com/members/33996/) pour les fichiers .toc et config additionnel des jeux
 
 ## PSP 2 PS4
 Jouer à la PlayStation Portable sur PS4 --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/psp_ps4)
