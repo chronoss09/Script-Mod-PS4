@@ -1,0 +1,9 @@
+#
+
+--image="data/disc1.bin"
+
+--scale=6
+--ctlanalog=on
+--gpu-scanout-fps-override=60
+
+--ps1-title-id=SLUS01145
