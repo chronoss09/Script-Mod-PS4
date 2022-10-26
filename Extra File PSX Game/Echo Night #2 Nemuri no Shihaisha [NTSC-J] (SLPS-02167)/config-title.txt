@@ -1,0 +1,4 @@
+--bios-hide-sce-osd=1
+--has-shown-start-select-help=1
+--scale=6
+--gpu-scanout-fps-override=ntsc
