@@ -1,4 +1,6 @@
 # Script Mod PS4
+[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss)  [![Github all releases](https://img.shields.io/github/downloads/rdmrocha/linkalho/total.svg)](https://github.com/chronoss09/Script-Mod-PS4/releases)
+
 Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!  
 Et super grand merci à [Stayhye](https://www.psx-place.com/members/33996/) pour les fichiers .toc et config additionnel des jeux
 
