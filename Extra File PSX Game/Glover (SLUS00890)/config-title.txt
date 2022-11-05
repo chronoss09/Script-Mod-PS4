@@ -1,0 +1,3 @@
+--gpu-scanout-fps-override=ntsc
+--scale=6
+--libcrypt=26B6
