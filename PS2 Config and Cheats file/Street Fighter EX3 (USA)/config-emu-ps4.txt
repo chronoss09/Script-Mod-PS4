@@ -1,0 +1,35 @@
+#PS2HDPS4 mod par Chronoss
+--path-snaps="/tmp/snapshots"
+--path-recordings="/tmp/recordings"
+--path-vmc="/tmp/vmc"
+--path-emulog="/tmp/recordings"
+--config-local-lua=""
+--load-tooling-lua=0
+--ps2-title-id=SLUS20130
+--max-disc-num=1
+--trophy-support=0
+--gs-uprender=2x2
+--gs-upscale=EdgeSmooth
+--host-audio=1
+--rom="PS20220WD20050620.crack"
+--verbose-cdvd-reads=0
+--host-osd=0
+--host-display-mode=full
+--host-audio=1
+
+--cdvd-sector-read-cycles=2000
+
+--ee-cycle-scalar=1.10
+
+--vu0-mpg-cycles=1
+--vu0-no-clamping=0
+
+#This could help with broken gfx
+--fpu-no-clamping=0
+--fpu-clamp-results=1
+--vu0-no-clamping=0
+--vu0-clamp-results=1
+--vu1-no-clamping=0
+--vu1-clamp-results=1
+--cop2-no-clamping=0
+--cop2-clamp-results=1
