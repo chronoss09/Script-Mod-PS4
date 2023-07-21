@@ -1,8 +1,16 @@
 # Script Mod PS4
-[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss)  [![Github all releases](https://img.shields.io/github/downloads/rdmrocha/linkalho/total.svg)](https://github.com/chronoss09/Script-Mod-PS4/releases)
+[![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/psx_ps4/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/ps2_ps4/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/sms_ps4/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/psp_ps4/total)  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Script-Mod-PS4/retro_ps4/total) 
 
 Grand merci à [Markus95](https://twitter.com/Markus00095) pour l'idée originale de ces scripts !!!  
-Et super grand merci à [Stayhye](https://www.psx-place.com/members/33996/) pour les fichiers .toc et config additionnel des jeux
+Et super grand merci à [Stayhye](https://www.psx-place.com/members/33996/) pour les fichiers .toc et config additionnel des jeux PSX sur PS4
+
+
+## RetroArch 2 PS4
+
+Jouer au jeu retro sur PS4 grâce à l'émulateur PS2 sur PS4 --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/retro_ps2)
+
+![PICTURE](https://github.com/chronoss09/Script-Mod-PS4/blob/main/Retro2PS4.PNG)
+
 
 ## PSP 2 PS4
 Jouer à la PlayStation Portable sur PS4 --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/psp_ps4)
