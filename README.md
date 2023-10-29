@@ -9,7 +9,7 @@ Et super grand merci à [Stayhye](https://www.psx-place.com/members/33996/) pour
 
 Créer ou mettre à jour le PKG des codes triche GoldHEN --> [lien](https://github.com/chronoss09/Script-Mod-PS4/releases/tag/cheat_ps4)
 
-![PICTURE](https://github.com/chronoss09/Script-Mod-PS4/blob/main/GoldHEN%20Cheat%20PS4.PNG)
+![PICTURE](https://github.com/chronoss09/Script-Mod-PS4/blob/main/GoldHEN%20Cheat%20PKG.PNG)
 
 
 ## Merge FPKG PS4 to PS5 v1.0
